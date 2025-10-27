@@ -1,0 +1,24 @@
+# Ignore compilation objects
+*.pyc
+*.mod
+
+
+env
+dist
+build
+MANIFEST
+*.egg-info
+.coverage
+.tox
+.stfolder
+.obsidian
+
+# Simulations
+rumd_timing_info.dat
+log.lammps
+.DS_Store
+
+# Heavy files
+
+# Aliases
+*alias
